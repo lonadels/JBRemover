@@ -1,4 +1,4 @@
-﻿#JBRemover
+﻿# JBRemover
 Tool to remove license from JetBrains **(Windows only)**.
 
 ### Usage
@@ -7,7 +7,7 @@ Tool to remove license from JetBrains **(Windows only)**.
 * Confirm you actions (Y - yes, N - no)
 * If you find an issue, please, create new issue at [github.com/lonadels/JBRemover/issues][issues]
 
-###Build
+### Build
 * Requires .NET Core ^6.0.100-preview.7
 * Windows only!
 
